@@ -38,6 +38,7 @@ I'm pursuing a Bachelor's degree in Science and Technology, with an expected gra
 ## 📫 How to reach me
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno2.galani@gmail.com) 
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bruno.gallani@aluno.ufabc.edu.br) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunogallani/)
 
 Feel free to connect with me, and let's collaborate on exciting projects together!
