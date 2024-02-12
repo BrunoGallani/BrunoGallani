@@ -2,13 +2,13 @@
 
 I'm a 20-year-old universitary student from São Paulo, Brazil, currently studying at the <a href="https://www.ufabc.edu.br/">Federal University of ABC</a>.
 
-I'm pursuing a Bachelor's degree in Science and Technology, Computer Science and Data Science, with an expected graduation date in December 2028.
+I'm pursuing a Bachelor's degree in Science and Technology, Computer Science and Data Science, with an expected graduation date in December 2027.
 
 ## About me
 
 📚 **Studying**: <a href="https://www.ufabc.edu.br/">Federal University of ABC</a> - Bachelor in Science and Technology, Bachelor in Computer Science, Bachelor in Data Science;
 
-🎓 **Expected Graduation**: December 2025 (B.Sc.), December 2027 (B.Comp.Sc.), December 2028 (B.Data.Sc.);
+🎓 **Expected Graduation**: December 2025 (B.Sc.), December 2026 (B.Comp.Sc.), December 2027 (B.Data.Sc.);
 
 📍  **Location**: São Bernardo do Campo, São Paulo, Brazil
 
