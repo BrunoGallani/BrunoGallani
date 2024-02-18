@@ -16,9 +16,7 @@ I'm pursuing a Bachelor's degree in Science and Technology, Computer Science and
 
 👩‍💻 Coding;
 
-🐍 Python;
-
-🎶 Music
+🎶 Music.
   
 ## Known languages
 
@@ -37,9 +35,10 @@ I'm pursuing a Bachelor's degree in Science and Technology, Computer Science and
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> ★☆☆☆☆
 </div>
 
-## Projects
+## 💼 Projects
 
 🐍 <a href="../../../python_projects">Python</a>
+
 ## 📫 How to reach me
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno2.galani@gmail.com) 
