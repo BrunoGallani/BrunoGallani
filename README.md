@@ -37,7 +37,7 @@ I'm pursuing a Bachelor's degree in Science and Technology, Computer Science and
 
 ## 💼 Projects
 
-<span style="font-size: 3em">Text goes here</span>
+🐍 <a href="../../python_projects">**Python**</a>
 
 ## 📫 How to reach me
 
