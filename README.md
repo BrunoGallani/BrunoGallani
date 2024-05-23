@@ -44,6 +44,6 @@ I'm pursuing a Bachelor's degree in Science and Technology, Computer Science and
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno2.galani@gmail.com) 
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:bruno.gallani@aluno.ufabc.edu.br) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunogallani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bruno-gallani.notion.site/bruno-gallani/Portf-lio-Bruno-Gallani-fa8e5fac61f241c08f527e4d816abcb3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bit.ly/4c6sgKI)
 
 Feel free to connect with me, and let's collaborate on exciting projects together!
