@@ -1,6 +1,6 @@
 # Hey, I'm <a href="https://www.linkedin.com/in/brunogallani/">Bruno Gallani</a>! 👋
 
-I'm a 20-year-old universitary student from São Paulo, Brazil, currently studying at the <a href="https://www.ufabc.edu.br/">Federal University of ABC</a>.
+I'm a 21-year-old universitary student from São Paulo, Brazil, currently studying at the <a href="https://www.ufabc.edu.br/">Federal University of ABC</a>.
 
 I'm pursuing a Bachelor's degree in Science and Technology, Computer Science and Data Science, with an expected graduation date in December 2027.
 
@@ -20,20 +20,28 @@ I'm pursuing a Bachelor's degree in Science and Technology, Computer Science and
   
 ## Known languages
 
-<div style="display: block;">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a> ★★★☆☆
-</div>
-
-<div style="display: block;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> ★★☆☆☆
-</div>
-
-<div style="display: block;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> ★☆☆☆☆
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank" title="Python - Intermediário">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+      </a>
+      <br/>⭐⭐⭐☆☆
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5 - Básico">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      </a>
+      <br/>⭐⭐☆☆☆
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3 - Iniciante">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      </a>
+      <br/>⭐☆☆☆☆
+    </td>
+  </tr>
+</table>
 
 ## 💼 Projects
 
