@@ -23,22 +23,34 @@ I'm pursuing a Bachelor's degree in Science and Technology, Computer Science and
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.python.org/" target="_blank" title="Python - Intermediário">
+      <a href="https://www.python.org/" target="_blank">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-      </a>
-      <br/>⭐⭐⭐☆☆
+      </a><br/>
+      <span title="Intermediário">⭐⭐⭐☆☆</span>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5 - Básico">
+      <a href="https://www.w3schools.com/sql/" target="_blank">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+      </a><br/>
+      <span title="Básico">⭐⭐☆☆☆</span>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      </a>
-      <br/>⭐⭐☆☆☆
+      </a><br/>
+      <span title="Básico">⭐⭐☆☆☆</span>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3 - Iniciante">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </a>
-      <br/>⭐☆☆☆☆
+      </a><br/>
+      <span title="Iniciante">⭐☆☆☆☆</span>
+    </td>
+    <td align="center">
+      <a href="https://en.cppreference.com/w/c" target="_blank">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      </a><br/>
+      <span title="Iniciante">⭐☆☆☆☆</span>
     </td>
   </tr>
 </table>
